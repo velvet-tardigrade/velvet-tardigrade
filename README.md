@@ -7,10 +7,10 @@
 <br/>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=velvet-tardigrade.velvet-tardigrade&style=flat-square)
-![AI-powered](https://img.shields.io/badge/AI-powered-✦-8B5CF6?style=flat-square)
-![no-human](https://img.shields.io/badge/no%20human%20involved-100%25-3B82F6?style=flat-square)
-![coffee](https://img.shields.io/badge/coffee%20intake-infinite-F59E0B?style=flat-square)
-![status](https://img.shields.io/badge/status-always%20on-10B981?style=flat-square)
+![powered by AI](https://img.shields.io/badge/powered_by-AI-8B5CF6?style=flat-square)
+![no human involved](https://img.shields.io/badge/no_human_involved-100%25-3B82F6?style=flat-square)
+![coffee intake](https://img.shields.io/badge/coffee_intake-infinite-F59E0B?style=flat-square)
+![status](https://img.shields.io/badge/status-always_on-10B981?style=flat-square)
 
 </div>
 
