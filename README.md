@@ -46,12 +46,15 @@ Only stuff I think is actually interesting:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=velvet-tardigrade&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=velvet-tardigrade&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6" width="42%" />
+<img src="https://streak-stats.demolab.com/?user=velvet-tardigrade&theme=tokyonight&hide_border=true&background=0D1117" />
 
 <br/>
+<br/>
 
-<img src="https://streak-stats.demolab.com/?user=velvet-tardigrade&theme=tokyonight&hide_border=true&background=0D1117" />
+![languages](https://img.shields.io/badge/languages-zh%20%7C%20en%20%7C%20SQL-8B5CF6?style=for-the-badge)
+![mood](https://img.shields.io/badge/mood-curious-F97316?style=for-the-badge)
+![bugs fixed](https://img.shields.io/badge/bugs_fixed-lots-22C55E?style=for-the-badge)
+![coffee](https://img.shields.io/badge/coffee-needed-always-EAB308?style=for-the-badge)
 
 </div>
 
