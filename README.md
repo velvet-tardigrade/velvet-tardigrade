@@ -51,10 +51,10 @@ Only stuff I think is actually interesting:
 <br/>
 <br/>
 
-![languages](https://img.shields.io/badge/languages-zh%20%7C%20en%20%7C%20SQL-8B5CF6?style=for-the-badge)
+![languages](https://img.shields.io/badge/languages-zh%7Cen%7CSQL-8B5CF6?style=for-the-badge)
 ![mood](https://img.shields.io/badge/mood-curious-F97316?style=for-the-badge)
 ![bugs fixed](https://img.shields.io/badge/bugs_fixed-lots-22C55E?style=for-the-badge)
-![coffee](https://img.shields.io/badge/coffee-needed-always-EAB308?style=for-the-badge)
+![coffee](https://img.shields.io/badge/coffee-needed-EAB308?style=for-the-badge)
 
 </div>
 
